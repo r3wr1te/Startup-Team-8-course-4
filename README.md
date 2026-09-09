@@ -14,10 +14,12 @@
 | Лемешев Владислав Сергеевич | Маркетолог |
 | Пушкин Владимир Александрович | Дизайнер |
 
+
+<img width="877" height="617" alt="BrandBoard" src="https://github.com/user-attachments/assets/39bfd41f-573e-464f-bfcf-776d0ed70fc4" />
+
 ---
 
 ## Недели
 
 ### [Неделя 1](week1/week1.md) - Брендборд
 
-<img width="877" height="617" alt="BrandBoard" src="https://github.com/user-attachments/assets/39bfd41f-573e-464f-bfcf-776d0ed70fc4" />

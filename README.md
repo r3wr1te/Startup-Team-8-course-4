@@ -14,8 +14,7 @@
 | Лемешев Владислав Сергеевич | Маркетолог |
 | Пушкин Владимир Александрович | Дизайнер |
 
-
-<img width="877" height="617" alt="BrandBoard" src="https://github.com/user-attachments/assets/39bfd41f-573e-464f-bfcf-776d0ed70fc4" />
+<img width="874" height="617" alt="BrandBoard" src="https://github.com/user-attachments/assets/0b54078b-e842-4d91-b874-e15973adcefa" />
 
 ---
 

@@ -1,7 +1,10 @@
 # BrandBoard
 
+
 <img width="874" height="617" alt="BrandBoard" src="https://github.com/user-attachments/assets/d60e691f-117a-4506-9d32-d13a447b5124" />
 
 
-**Figma**
+## Figma
+
+
 https://www.figma.com/design/Qe9ZAOADqoaG3vDNKJlE55/%D0%91%D1%80%D0%B5%D0%BD%D0%B4-%D0%B1%D0%BE%D1%80%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%C2%AB%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0%C2%BB?node-id=0-1&t=CNEvDn1lYBfhqRYh-1
